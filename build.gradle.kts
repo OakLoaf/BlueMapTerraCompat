@@ -34,7 +34,7 @@ dependencies {
     // Libraries
     implementation("io.github.revxrsal:lamp.common:4.0.0-rc.12")
     implementation("io.github.revxrsal:lamp.bukkit:4.0.0-rc.12")
-    implementation("com.fasterxml.jackson.core:jackson-core:2.19.0") // Jackson
+    implementation("com.fasterxml.jackson.core:jackson-core:2.19.1") // Jackson
     implementation("com.fasterxml.jackson.core:jackson-annotations:2.19.0") // Jackson
     implementation("com.fasterxml.jackson.core:jackson-databind:2.19.0") // Jackson
 }
